@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iC4rl0s and a freshman student
-- 👀 I’m interested in Open Source and learning Python, C and Go
+- 👀 I’m interested in Open Source and learning Python, C
 - 🌱 I’m currently learning Python 🐍  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me GiTomato@protonmail.com
